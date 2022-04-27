@@ -1,0 +1,68 @@
+// EVEN OR ODD
+// var num; 
+// num = prompt("Enter any number")
+// if(num%2==0) 
+// alert(num+"is even") 
+// else 
+// alert(num+"is odd"); 
+
+  
+//  VOWEL OR CONSONANT 
+// var a; 
+// a = prompt("Enter a string")
+// if(a == 'a' || a == 'e' || a == 'i' || a == 'o' || a == 'u ') 
+// alert(a+ "is vowel"); 
+// else 
+// alert(a+ "is consonant"); 
+  
+ 
+//  PRIME NUMBER 
+//  var num; 
+//  num = prompt("Enter a number") 
+//  if(num%1==0) 
+//  alert(num+ "is prime number") 
+//  else 
+//  alert(num+ "is not a prime number");   
+   
+// // NUMBER IS POSITIVE OR NEGATIVE  
+// const number = parseInt(prompt("Enter a number: "));
+
+// // check if number is greater than 0
+// if (number > 0) {
+//     console.log("The number is positive");
+// }
+
+// // check if number is 0
+// else if (number == 0) {
+//   console.log("The number is zero");
+// }
+
+// // if number is less than 0
+// else {
+//      console.log("The number is negative");
+// }
+  
+ 
+// var a = '';
+// var n = 5;
+// var m = (n-1); 
+// for(i=1; i <= n; i++)
+// {
+//     a = a.trim();
+//     a = ' '.repeat(m) + a + (i > 1 ? ' ' : '') + '*';
+//     console.log(a);
+//     m--;
+// }
+ 
+
+// var array = [10,20,30,40,50];
+// var size = 5;
+ 
+// for(var a=0; a<size; a++)
+// {
+     
+     
+//     array[a] = prompt('Enter array Element ' + (a+1));
+// }
+
+// console.log(array);      
